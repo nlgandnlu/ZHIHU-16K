@@ -5,6 +5,8 @@ The ZHIHU-16K dataset comprises 16,381 articles collected from 13 diverse topics
 
 #### Data preprocessing
 
+Move constructor_graph.py to the same directory in the entire data folder and:
+
 python construct_graph.py
 
 The features required by the gnn module are processed and saved in edge/ (structural information) and feature/ (node ​​feature information)
