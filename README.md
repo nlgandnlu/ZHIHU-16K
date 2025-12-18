@@ -5,7 +5,7 @@ The ZHIHU-16K dataset comprises 16,381 articles collected from 13 diverse topics
 
 #### Data preprocessing
 
-unzip data.zip files (https://drive.google.com/file/d/10GyQd8At0uuQ_e6fcS8zaQsyDIosbaTs/view?usp=drive_link) first, and move these files to corresponding folders.
+unzip data.zip files (https://drive.google.com/file/d/10GyQd8At0uuQ_e6fcS8zaQsyDIosbaTs/view?usp=drive_link) first, and move these files to corresponding folders (We have encrypted the sensitive information in these files). 
 Move constructor_graph.py to the same directory in the entire data folder and:
 
 python construct_graph.py
