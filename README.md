@@ -12,3 +12,5 @@ python construct_graph.py
 
 The features required by the gnn module are processed and saved in edge/ (structural information) and feature/ (node ​​feature information)
 
+#### The data for robustness testing is in robu_test. zip
+
